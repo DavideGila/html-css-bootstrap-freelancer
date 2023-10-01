@@ -1,0 +1,17 @@
+.fs-1 {
+    font-size: 4.5rem!important;
+}
+
+.bg_jade-green {
+    background-color: #1ABC9C;
+}
+
+.border-white {
+    display: inline-block;
+    width: 15%;
+    margin: 10px auto;
+}
+
+.fa-star {
+    padding: 0 30px;
+}
