@@ -6,6 +6,10 @@
     background-color: #1ABC9C;
 }
 
+.ms_color-jade-green {
+    color: #1ABC9C;
+}
+
 .border-white, .border-black {
     display: inline-block;
     width: 15%;
@@ -18,4 +22,17 @@
 
 .ms_h2 {
     font-size: 3.5rem!important;
+}
+
+.ms_bg-dark-blue {
+    background-color: #3A546D;
+}
+
+.btn-circle.btn-xl {
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    border-radius: 60px;
+    font-size: 15px;
+    text-align: center;
 }
